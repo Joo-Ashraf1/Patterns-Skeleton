@@ -1,0 +1,1 @@
+use if we want to have to abstractions related to each other think of it if i want to do circles with color and style so it would be many combinations{red circle,brown circle,brown rectangle,etc} so instead we combine color class into the style class
